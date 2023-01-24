@@ -56,7 +56,7 @@
     "item.bountifulbaubles.gloves_digging_iron": "铁爪手套",
     "item.bountifulbaubles.gloves_digging_iron.tooltip.0": "§9弱于铁制工具，但能挖掘所有种类的方块。",
     "item.bountifulbaubles.gloves_digging_iron.tooltip.0s": "§9弱于铁制工具，但能挖掘所有种类的方块。",
-    "item.bountifulbaubles.gloves_digging_iron.tooltip.1": "§b按Shift键来查看更多信息",
+    "item.bountifulbaubles.gloves_digging_iron.tooltip.1": "§b按住Shift键来查看更多信息",
     "item.bountifulbaubles.gloves_digging_iron.tooltip.1s": "§9采掘等级：§f石头",
     "item.bountifulbaubles.gloves_digging_iron.tooltip.2s": "§9在将其装备于Curios槽位中的情况下空手采掘时起效。",
     "item.bountifulbaubles.gloves_digging_iron.tooltip.3s": "§9将其装备于Curios槽位中时，§c效率魔咒的效果将被减弱。",
