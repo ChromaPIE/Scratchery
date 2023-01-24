@@ -1,0 +1,13 @@
+﻿{
+   "pack":{
+      "pack_format":6,
+      "description":"scratchery overriding"
+   },
+   "language": {
+      "zh_scr": {
+         "name": "简体中文",
+         "region": "Scratchery",
+         "bidirectional": false
+      }
+   }
+}
